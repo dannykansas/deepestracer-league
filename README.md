@@ -1,4 +1,4 @@
-# deepestracer-league
+# DeepestRacer League
 
 ![AWS DeepRacer Official Logo](https://media.amazonwebservices.com/blog/2018/dr_league_2.png)
 

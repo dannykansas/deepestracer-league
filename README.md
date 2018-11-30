@@ -7,4 +7,4 @@
 Mission: To create the best DeepRacer League on the planet _through any means necessary_.
 
 Members:
-@dannykansas <dan@logickc.com>
+- @dannykansas (dan@logickc.com)
